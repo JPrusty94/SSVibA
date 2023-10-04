@@ -1,5 +1,6 @@
 # SSVibA
 Sandwich Shell Vibration Analysis 
+
 Vibration analysis of sandwich shells using artificial intelligence methods
 
 This Matlab application calculates the non-dimensional natural frequencies and modal loss factors of a cylindrical sandwich shell containing two face layers of aluminium and a core layer of natural rubber. The user can select the boundary conditions of the shell structure and the cutout configurations, such as the shape of the cut-out, the normalized coordinates of the position of the cutout and the normalized size of the cutout.
